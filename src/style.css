@@ -1,0 +1,46 @@
+body {
+  background-color: whitesmoke;
+}
+.todo-list {
+  /* .contact-card{ */
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solit #efefef;
+  box-shadow: 0 1px 1px rgba (0, 0, 0, 15), 0 10px 0 -5px #eee,
+    0 10px 1 px -4px rgba (0, 0, 0, 0, 15), 0 10px 0 -10px #eee,
+    0 20px 1px -9px rgba (0, 0, 0, 0.15);
+  padding: 30px;
+}
+
+.footer {
+  height: 50px;
+  background-color: yellow;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.todo-item {
+  /* .contact-card { */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px 20px 0;
+  width: 70%;
+  border-bottom: 1px solid #cecece;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  font-size: 15px;
+  color: #333333;
+}
