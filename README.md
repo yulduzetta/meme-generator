@@ -5,7 +5,7 @@ Random meme generator with the ability to add your custom text
 Deployed version: https://yulduz-meme-generator.herokuapp.com/
 
 ## Stack
-- react, javascript, htnml, css
+- react, javascript, html, css
 
 ## TODO: 
 - Polish UI
